@@ -1,4 +1,4 @@
-// blender - An agnostic keyframe interpolation and animation controller. MIT licensed.
+// blender - An agnostic keyframe interpolation and animation controller. BOOST licensed.
 // - rlyeh ~~ listening to Jeremy Irons & the Ratgang Malibus / Elefanta
 
 // - play anim forward
