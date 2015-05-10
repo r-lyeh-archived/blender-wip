@@ -2,7 +2,7 @@ blender
 =======
 
 - An agnostic keyframe interpolation and animation controller. Written in C++11.
-- BOOST licensed
+- ZLIB/LibPNG licensed
 
 WIP WIP WIP WIP WIP
 
